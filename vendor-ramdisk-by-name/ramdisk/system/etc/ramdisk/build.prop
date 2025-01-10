@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=penangf
+ro.product.bootimage.manufacturer=motorola
+ro.bootimage.build.date=Thu Nov 14 18:54:04 CST 2024
+ro.bootimage.build.date.utc=1731581644
+ro.bootimage.build.id=UHAS34.29-10
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=163
+ro.bootimage.build.version.sub=163
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

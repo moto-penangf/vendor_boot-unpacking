@@ -1,0 +1,6 @@
+androidboot.bootloader=preloader
+androidboot.mode=fastboot
+androidboot.debuggable=1
+force_normal_boot=1
+pmic_reset=1
+bootargs=console=ttyS0,115200n8
